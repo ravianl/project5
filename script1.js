@@ -1,0 +1,1 @@
+var x="Script1.js File is linked!";
